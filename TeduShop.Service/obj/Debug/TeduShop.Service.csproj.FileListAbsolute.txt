@@ -1,0 +1,11 @@
+D:\Web ASP\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Service.dll
+D:\Web ASP\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Service.pdb
+D:\Web ASP\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Common.dll
+D:\Web ASP\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Data.dll
+D:\Web ASP\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Model.dll
+D:\Web ASP\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Common.pdb
+D:\Web ASP\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Data.pdb
+D:\Web ASP\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Model.pdb
+D:\Web ASP\TeduShop\TeduShop.Service\obj\Debug\TeduShop.Service.csprojResolveAssemblyReference.cache
+D:\Web ASP\TeduShop\TeduShop.Service\obj\Debug\TeduShop.Service.dll
+D:\Web ASP\TeduShop\TeduShop.Service\obj\Debug\TeduShop.Service.pdb

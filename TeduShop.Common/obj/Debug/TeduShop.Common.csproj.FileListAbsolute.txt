@@ -1,0 +1,5 @@
+D:\Web ASP\TeduShop\TeduShop.Common\bin\Debug\TeduShop.Common.dll
+D:\Web ASP\TeduShop\TeduShop.Common\bin\Debug\TeduShop.Common.pdb
+D:\Web ASP\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.csprojResolveAssemblyReference.cache
+D:\Web ASP\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.dll
+D:\Web ASP\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.pdb
